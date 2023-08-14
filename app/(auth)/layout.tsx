@@ -8,7 +8,7 @@ export const metadata = {
     description: 'A Next.js 13 Social Media Application'
 }
 
-const inter = Inter({ subsets: ["latin"] })
+const inter = Inter({ subsets: ["latin"] });
 
 export default function RootLayout ({ 
     children
