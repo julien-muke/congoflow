@@ -64,7 +64,7 @@ function CommunityCard({ id, name, username, imgUrl, bio, members }: Props) {
               </p>
             )}
           </div>
-        )}
+        )} 
       </div>
     </article>
   );
