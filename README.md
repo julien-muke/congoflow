@@ -1,4 +1,4 @@
-# Build and Deploy a Full Stack MERN Next.js 13 Threads App | React, Next JS, TypeScript, MongoDB
+# Build and Deploy a Full Stack MERN Next.js 13 App | React, Next JS, TypeScript, MongoDB, Clerk
 ![Screenshot](Screenshot.jpg)
 
 # Feartures:
