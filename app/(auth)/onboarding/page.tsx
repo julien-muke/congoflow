@@ -12,7 +12,7 @@ async function Page() {
   if (userInfo?.onboarded) redirect("/");
 
   const userData = {
-    id: user.id,
+    id: user?.id,
     objectId: userInfo?._id,
     username: userInfo ? userInfo?.username : user.username,
     name: userInfo ? userInfo?.name : user.firstName ?? "",
